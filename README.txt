@@ -1,0 +1,1 @@
+This is a distributed WhiteBoard application for Distributed system;
